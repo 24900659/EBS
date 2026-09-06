@@ -87,6 +87,7 @@ ls /mnt/data-store2/
 Expected output:
 ```
 file.txt
+```
 Outputs
 <img width="1600" height="768" alt="image" src="https://github.com/user-attachments/assets/ed6966b1-210e-4c06-84e4-1101ae23205a" />
 <img width="1600" height="764" alt="image" src="https://github.com/user-attachments/assets/48395ab0-d354-407b-a5c9-9aeae5752da2" />
