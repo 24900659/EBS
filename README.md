@@ -99,5 +99,6 @@ Outputs
 <img width="1548" height="546" alt="image" src="https://github.com/user-attachments/assets/785e7eb0-f2a8-45b6-ad9b-a42587132873" />
 
 Result
+
 Thus, an Amazon EBS volume was successfully created and attached to an Amazon EC2 instance. The volume was formatted with an ext3 file system, mounted, and used for storing data. An EBS snapshot was successfully created as a backup, and a new EBS volume was restored from the snapshot. The previously deleted file.txt was successfully recovered, demonstrating the backup and restore functionality of Amazon EBS.
 
