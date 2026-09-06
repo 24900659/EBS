@@ -1,6 +1,8 @@
 WORKING WITH EBS
 NAME: MOHANA K.V.S.L
+
 REG NO: 212224240093
+
 Aim
 To create and configure an Amazon Elastic Block Store (EBS) volume, attach and mount it to an Amazon EC2 instance, create a snapshot backup, and restore the snapshot to a new EBS volume.
 
